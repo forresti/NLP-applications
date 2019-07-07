@@ -27,6 +27,9 @@
     * Then, if intent is "order an item," the next step is to recognize the name of the item based on an unscripted sentence.
     * Or, if the intent is "check weather," if it's not already clear which location is interested in, we would recognize a zip code in an unscripted sentence.
 
+## Other chatbot stuff
+* See figure 2 from the [CMU entrant](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2018/Tartan.pdf) to the Alexa Challenge 2018. It includes Intent, Topic, Sentiment, Named Entity Recognition, Neural Generation -- all things I believe today's DNN-enabled NLP can do.
+
 ## Things to categorize
 * SQuAD
 * RACE dataset
