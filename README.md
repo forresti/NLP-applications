@@ -1,4 +1,4 @@
-# Applications of natural language processing
+# Natural language processing research tasks
 
 ## Language modelling
 ### Activities
@@ -13,7 +13,14 @@
 
  
 
+# Mapping end-applications to NLP tasks
 
+## Semi-automated customer service (human in the loop at call center or on text chat)
+* [Assist service rep in coming up with answers](https://venturebeat.com/2018/09/29/investing-in-ai-when-natural-language-processing-pays-off/) - Question Answering and Language Modeling (next sentence prediction)
+
+## Fully-automated customer service (chatbot - with a text or voice interface)
+* Question answering
+* "Similar question finding" - seems like something we could do with today's NLP 
 
 
 ## Things to categorize
@@ -25,7 +32,7 @@
     * QNLI - GLUE page links to SQuAD 2.0?
     * [Quora Question Pairs (QQP)](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
     * [Recognizing Textual Entailment (RTE)](https://aclweb.org/aclwiki/Recognizing_Textual_Entailment)
-    * [Stanford Sentiment Treebank (SST-2)](https://nlp.stanford.edu/sentiment/index.html)
+    * [Stanford Sentiment Treebank (SST-2)](https://nlp.stanford.edu/sentiment/index.html) - [demo](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html)
     * [Microsoft Research Paraphrase Corpus (MRPC)](https://www.microsoft.com/en-us/download/details.aspx?id=52398)
     * [Corpus of Linguistic Acceptability (CoLA)](https://nyu-mll.github.io/CoLA/)
     * [Semantic Textual Similarity Benchmark (STS-B)](http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark)
