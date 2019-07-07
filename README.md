@@ -24,12 +24,12 @@
     * [Multi-Genre Natural Language Inference (MNLI)](http://www.nyu.edu/projects/bowman/multinli/) - "crowd-sourced collection of 433k sentence pairs annotated with textual entailment information"
     * QNLI - GLUE page links to SQuAD 2.0?
     * [Quora Question Pairs (QQP)](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
-    * RTE
-    * [Stanford Sentiment Treebank (SST-2)]()
-    * [Microsoft Research Paraphrase Corpus (MRPC)]()
+    * [Recognizing Textual Entailment (RTE)](https://aclweb.org/aclwiki/Recognizing_Textual_Entailment)
+    * [Stanford Sentiment Treebank (SST-2)](https://nlp.stanford.edu/sentiment/index.html)
+    * [Microsoft Research Paraphrase Corpus (MRPC)](https://www.microsoft.com/en-us/download/details.aspx?id=52398)
     * [Corpus of Linguistic Acceptability (CoLA)](https://nyu-mll.github.io/CoLA/)
     * [Semantic Textual Similarity Benchmark (STS-B)](http://ixa2.si.ehu.es/stswiki/index.php/STSbenchmark)
-    * WNLI
+    * [WNLI - aka Winograd Schema Challenge (WSC)](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)
 * [SuperGlue](https://super.gluebenchmark.com/tasks)
     * AX
     * [CommitmentBank (CB)](https://github.com/mcdm/CommitmentBank)
