@@ -22,6 +22,10 @@
 * Question answering
 * "Similar question finding" - seems like something we could do with today's NLP 
 
+## Fuzzy procedural voice agent
+* It seems like we should be able to train NLP to do the following. We have a fixed list of possible intents (check weather, order an item, or none of the above). We teach a model to recognize these intents in text strings.
+    * Then, if intent is "order an item," the next step is to recognize the name of the item based on an unscripted sentence.
+    * Or, if the intent is "check weather," if it's not already clear which location is interested in, we would recognize a zip code in an unscripted sentence.
 
 ## Things to categorize
 * SQuAD
