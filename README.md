@@ -30,6 +30,9 @@
 ## Other chatbot stuff
 * See figure 2 from the [CMU entrant](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2018/Tartan.pdf) to the Alexa Challenge 2018. It includes Intent, Topic, Sentiment, Named Entity Recognition, Neural Generation -- all things I believe today's DNN-enabled NLP can do.
 
+## Phobias
+* Could we use NLP to detect references to common phobias (e.g. spiders) or personalized phobias? Then, we could remove these from search results, or make it "click to look," or something like that.
+
 ## Things to categorize
 * SQuAD
 * RACE dataset
