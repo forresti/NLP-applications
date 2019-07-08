@@ -1,4 +1,4 @@
-# Mapping end-applications to NLP tasks
+# NLP-enabled applications, and their underlying technology 
 
 ## Semi-automated customer service (human in the loop at call center or on text chat)
 * [Assist service rep in coming up with answers](https://venturebeat.com/2018/09/29/investing-in-ai-when-natural-language-processing-pays-off/) - Question Answering and Language Modeling (next sentence prediction)
@@ -16,7 +16,7 @@
 * See figure 2 from the [CMU entrant](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexaprize/assets/pdf/2018/Tartan.pdf) to the Alexa Challenge 2018. It includes Intent, Topic, Sentiment, Named Entity Recognition, Neural Generation -- all things I believe today's DNN-enabled NLP can do.
 
 ## Phobias
-* Could we use NLP to detect references to common phobias (e.g. spiders) or personalized phobias? Then, we could remove these from search results, or make it "click to look," or something like that.
+* Could we use NLP to detect references to common phobias (e.g. spiders) or personalized phobias? Then, we could remove these from search results, or make it "click to look," or something like that? Intuitively, it seems like Topic Modeling could help us with this.
 
 ## Predict next letter, word, or sentence that the user will type (e.g. in google search or in an email)
 * Language models do this
