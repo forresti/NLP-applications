@@ -1,18 +1,3 @@
-# Natural language processing research tasks
-
-## Language modelling
-### Activities
-* Predict the next character, word, or sentence
-
-### Applications
-* Predict next letter, word, or sentence that the user will type (e.g. in google search or in an email)
-* Can be useful offline -- e.g. in MS Word on airplane, or on a the keyboard of a phone with poor internet
-
-### Demos
-* TODO
-
- 
-
 # Mapping end-applications to NLP tasks
 
 ## Semi-automated customer service (human in the loop at call center or on text chat)
@@ -33,7 +18,11 @@
 ## Phobias
 * Could we use NLP to detect references to common phobias (e.g. spiders) or personalized phobias? Then, we could remove these from search results, or make it "click to look," or something like that.
 
-## Things to categorize
+## Predict next letter, word, or sentence that the user will type (e.g. in google search or in an email)
+* Language models do this
+* Can be useful offline -- e.g. in MS Word on airplane, or on a the keyboard of a phone with poor internet
+
+# An incomplete list of NLP datasets and tasks
 * SQuAD
 * RACE dataset
 * Text classification datasets used in [XLNet paper](https://arxiv.org/pdf/1906.08237.pdf): IMDB, Yelp-2, Yelp-5, DBpedia, AG, Amazon-2, Amazon-5
