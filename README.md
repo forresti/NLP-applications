@@ -1,7 +1,7 @@
 # NLP-enabled applications, and their underlying technology 
 
 ## Semi-automated customer service (human in the loop at call center or on text chat)
-* [Assist service rep in coming up with answers](https://venturebeat.com/2018/09/29/investing-in-ai-when-natural-language-processing-pays-off/) - Question Answering and Language Modeling (next sentence prediction)
+* [Assist a human service representative in coming up with answers](https://venturebeat.com/2018/09/29/investing-in-ai-when-natural-language-processing-pays-off/) - Question Answering and Language Modeling (next sentence prediction)
 
 ## Fully-automated customer service (chatbot - with a text or voice interface)
 * Question answering
