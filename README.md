@@ -26,6 +26,7 @@
 * SQuAD
 * RACE dataset
 * Text classification datasets used in [XLNet paper](https://arxiv.org/pdf/1906.08237.pdf): IMDB, Yelp-2, Yelp-5, DBpedia, AG, Amazon-2, Amazon-5
+* [Author Identification using BooksCorpus data](https://www.kaggle.com/jinsooyeo/author-identification-using-toronto-book-corpus) (and recommending similar authors)
 * [GLUE](https://gluebenchmark.com/tasks)
     * [Multi-Genre Natural Language Inference (MNLI)](http://www.nyu.edu/projects/bowman/multinli/) - "crowd-sourced collection of 433k sentence pairs annotated with textual entailment information"
     * QNLI - GLUE page links to SQuAD 2.0?
