@@ -1,5 +1,7 @@
 # NLP-enabled applications, and their underlying technology 
 
+* [predict bestsellers](https://www.datasciencecentral.com/profiles/blogs/nlp-picks-bestsellers-a-lesson-in-using-nlp-for-hidden-feature-ex)
+
 ## Semi-automated customer service (human in the loop at call center or on text chat)
 * [Assist a human service representative in coming up with answers](https://venturebeat.com/2018/09/29/investing-in-ai-when-natural-language-processing-pays-off/) - Question Answering and Language Modeling (next sentence prediction)
 
